@@ -1,7 +1,14 @@
 <h2>My Name Is Sirish Krishna, Studying CSE From Andhra Pradesh</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=SriCoolXd&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SriCoolXd&theme=radical&hide_border=true)<br/>
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriCoolXd&theme=radical&hide_border=true&include_all_commits=false&count_private=true&card_width=420" height="200" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriCoolXd&theme=radical&hide_border=true&card_width=520" height="200" alt="languages graph"  />
+</div>
+
+
+![]()
+![]()<br/>
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCvr1BiR3mm_gmYm-9RY03uA" target="_blank">
