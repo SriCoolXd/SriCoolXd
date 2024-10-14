@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<img align="right" height="200" src="https://i.pinimg.com/564x/66/8a/1e/668a1e680799220b50027f6fda3aa438.jpg" />
+<img align="right" height="250" src="https://graph.org/file/2a44f6c9a5171c6216ff7-62c283183dc1c33248.jpg" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
