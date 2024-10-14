@@ -44,6 +44,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+##
 <img src="https://raw.githubusercontent.com/SriCoolXd/SriCoolXd/output/snake.svg" alt="Snake animation" />
 
 ## 💰 You can help me by Donating
